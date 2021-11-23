@@ -9,11 +9,13 @@
   "dependencies": {
     "@emotion/react": "^11.6.0",
     "@emotion/styled": "^11.6.0",
+    "@hookform/resolvers": "^2.8.3",
     "@mui/material": "^5.2.0",
     "@types/material-ui": "^0.21.12",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
-    "react-hook-form": "^7.20.2"
+    "react-hook-form": "^7.20.2",
+    "yup": "^0.32.11"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
